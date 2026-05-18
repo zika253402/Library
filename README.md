@@ -24,29 +24,35 @@ The project is based on Object-Oriented Programming (OOP), file handling, decora
 
 ---
 
-## Project Structure
-library_system/
+## 📁 Project Structure
+
+library-system/
+│
 ├── data/
-│ └── books.csv
+│   └── books.csv
+│
 ├── models/
-│ ├── book.py
-│ ├── __init__.py
-│ ├── reader.py
-│ └── loan.py
+│   ├── __init__.py
+│   ├── book.py
+│   ├── reader.py
+│   └── loan.py
+│
 ├── services/
-│ ├── library_manager.py
-│ ├── __init__.py
-│ └── file_manager.py
+│   ├── __init__.py
+│   ├── library_manager.py
+│   └── file_manager.py
+│
 ├── utils/
-│ ├── decorators.py
-│ ├── __init__.py
-│ └── validators.py
+│   ├── __init__.py
+│   ├── decorators.py
+│   └── validators.py
+│
 ├── tests/
-│ └── test_library.py
-├── available_books.txt
+│   └── test_library.py
+│
 ├── main.py
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 
 ---
 

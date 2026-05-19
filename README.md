@@ -25,7 +25,7 @@ The project is based on Object-Oriented Programming (OOP), file handling, decora
 ---
 
 ## 📁 Project Structure
-
+```
 library-system/
 │
 ├── data/
@@ -53,7 +53,7 @@ library-system/
 ├── main.py
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## Classes
@@ -114,8 +114,10 @@ python main.py
 ## Example books.csv
 
 title,isbn,author,year,copies
-Harry Potter,1234567890123,J.K. Rowling,1997,3
-Hobbit,9780261102217,Tolkien,1937,2
+Dracula,9780141439846,Bram Stoker,1897,5
+The Cruel Prince,9780316310277,Holly Black,2018,8
+The Wicked King,9780316310352,Holly Black,2019,6
+The Queen of Nothing,9780316310420,Holly Black,2019,5
 
 ---
 

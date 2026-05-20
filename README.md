@@ -143,7 +143,7 @@ python -m unittest tests/test_library.py
 
 ## Team Contributions
 
-The project was developed collaboratively by Zamira and Zeyne.
+The project was developed collaboratively by Zamira and Zeine.
 
 ### Zamira
 Focused on:
